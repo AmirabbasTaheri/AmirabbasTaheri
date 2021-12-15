@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on HTML/CSS
 - 📫 How to reach me :
-Telegram : @Amirabbas_thri
-Email : amirabbas.thri@gmail.com
+https://zil.ink/amirabbastaheri
 
 <!---
 AmirabbasTaheri/AmirabbasTaheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
