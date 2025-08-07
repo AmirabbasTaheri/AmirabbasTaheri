@@ -62,9 +62,8 @@
 > _"Design is intelligence made visible."_ – Alina Wheeler  
 > _"Great design is not just what it looks like and feels like. Design is how it works."_ – Steve Jobs
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBPQYIh1K3NvxTO/giphy.gif" width="300" alt="design gif" />
-</p>
+![ezgif-8365834a6ddf69](https://github.com/user-attachments/assets/0fe84b5e-7c90-414f-9f7c-36ddfb004588)
+
 
 ---
 
