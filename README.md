@@ -20,7 +20,7 @@
 ## 🧰 Tools & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,html,css,python,github" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,html,css,python,github" width="300" />
 </p>
 
 - 🎨 Adobe Suite (Ps, Ai, Id) & Figma power my creativity.
