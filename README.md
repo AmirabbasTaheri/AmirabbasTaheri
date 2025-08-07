@@ -63,6 +63,9 @@
 > _"Great design is not just what it looks like and feels like. Design is how it works."_ – Steve Jobs
 
 ![ezgif-8365834a6ddf69](https://github.com/user-attachments/assets/0fe84b5e-7c90-414f-9f7c-36ddfb004588)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fe84b5e-7c90-414f-9f7c-36ddfb004588" width="300" alt="Design Animation" />
+</p>
 
 
 ---
