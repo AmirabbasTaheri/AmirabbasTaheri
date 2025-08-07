@@ -2,8 +2,9 @@
 <h3 align="center">A Curious Creative | Graphic Designer | UI/UX Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Designing+beautiful+things+with+purpose;Obsessed+with+UI%2FUX+and+clean+interfaces;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Designing+beautiful+things+with+purpose;Obsessed+with+UI%2FUX+and+clean+interfaces;Always+learning%2C+always+growing" alt="Typing SVG" />
 </p>
+
 
 ---
 
